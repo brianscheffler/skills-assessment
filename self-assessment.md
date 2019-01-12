@@ -7,3 +7,6 @@ Most of my expierence and comfort is in the Microsoft stack.  I am very comforta
 * JavaScript is a multi-purpose, client-side programming language.  It is one of the most popular programming languages that exists.
 * Angular is a JavaScript framework created by Google.  It has quickly gained populairty and is used by many developers.
 * HTML and CSS are core, front-end languages.  Every developer uses them, some are better than others and making things pretty with them.
+
+# Git Commands
+I've found the stash command to be extremely useful thoughout my career.  It allows you to quickly switch branches and not lose your work if you need to focus on something else, which happens quite often.  Rebasing has also become very useful for us as we've started to follow a trunk-based branching strategy.  It helps you keep your branch clean and easy to understand.  Reset is a command I use often as well.  Sometimes you get going down a path and find out it isn't going to work.  Resetting allows you to easily start fresh.
